@@ -140,7 +140,7 @@ googlefonts:
 # Theme and colors
 
 chulapa-skin: 
-  skin       :  twitter
+  skin       :  journal
   autothemer  :  # Autotheming may not have any effect
   vars        :    
    # ...
