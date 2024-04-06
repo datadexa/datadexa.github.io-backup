@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Welcome to my corner of the internet
 header_type: hero
 subtitle: Starter pack
 ---
 
+  I'm Tara. Learning to customize this site. 
+  
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
 Contains basic configuration to get you a site with:
