@@ -1,7 +1,10 @@
 # Welcome 
 ## to my corner of the world
 
-Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
+> *"If a Thing is worth doing, it is worth doing badly"*
+>      - G.K Chesterton
+
+Need to figure out how to add a newline in the above quote
 
 Contains basic configuration to get you a site with:
 
