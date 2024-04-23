@@ -5,7 +5,7 @@
 >      - G.K Chesterton
 
 Need to figure out how to add a newline in the above quote
-
+-This is not main page. Update index.md for that. Dunno where this page shows
 Contains basic configuration to get you a site with:
 
 - [Sample posts](./_posts/) and [paginated blog index](./blog/index.html).
