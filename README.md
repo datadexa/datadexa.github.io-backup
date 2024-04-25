@@ -10,6 +10,7 @@ Need to figure out how to add a newline in the above quote
 -> Find out if editing local css/yaml can change how the blogposts display. Compare with a one I lake maybe?
 Contains basic configuration to get you a site with:
 
+-> A commit a day keep sthe guilt away? Is showing up for 2 min worth it? - Yes. It's the start of something. :)
 - [Sample posts](./_posts/) and [paginated blog index](./blog/index.html).
 - [Sample collection](./_cheatsheet/) with Markdown and kramdown cheatsheets and [collection index](./_pages/cheatsheet.md).
 - Archive pages for posts grouped by year, category, and tag.
