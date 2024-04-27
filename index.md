@@ -9,7 +9,7 @@ subtitle:
 
   > *If A thing is worth doing, it is worth doing poorly* -
 >                                           -G.K. Chesterton
-  
+  Edit how blog looks
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
 Contains basic configuration to get you a site with:
