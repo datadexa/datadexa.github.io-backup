@@ -11,6 +11,7 @@ Need to figure out how to add a newline in the above quote
 Contains basic configuration to get you a site with:
 
 -> A commit a day keep sthe guilt away? Is showing up for 2 min worth it? - Yes. It's the start of something. :)
+-> 30 Apr I wanted to come here. surprising. #small doable wins!
 
 Was not planning to show up today, but why not?
 - [Sample posts](./_posts/) and [paginated blog index](./blog/index.html).
