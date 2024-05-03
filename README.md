@@ -10,6 +10,7 @@ Need to figure out how to add a newline in the above quote
 -> Find out if editing local css/yaml can change how the blogposts display. Compare with a one I lake maybe?
 Contains basic configuration to get you a site with:
 
+-> non zero. A smaill step. 
 -> A commit a day keep sthe guilt away? Is showing up for 2 min worth it? - Yes. It's the start of something. :)
 -> 30 Apr I wanted to come here. surprising. #small doable wins!
 
