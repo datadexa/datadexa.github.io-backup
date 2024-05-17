@@ -16,6 +16,7 @@ Contains basic configuration to get you a site with:
 
 Was not planning to show up today, but why not?
 -present sir
+-I will stick with tgis theme. what a day
 - [Sample posts](./_posts/) and [paginated blog index](./blog/index.html).
 - [Sample collection](./_cheatsheet/) with Markdown and kramdown cheatsheets and [collection index](./_pages/cheatsheet.md).
 - Archive pages for posts grouped by year, category, and tag.
